@@ -1,0 +1,1 @@
+BACKUP DATABASE sys TO DISK = 'C:\Users\chikk\Documents\sqlbackup.bak';
